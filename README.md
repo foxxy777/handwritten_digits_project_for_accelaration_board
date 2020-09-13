@@ -1,0 +1,2 @@
+# handwritten_digits_project_for_accelaration_board
+ xilinx加速卡的数字识别工程
